@@ -1,0 +1,7 @@
+{
+  "name": "Guru Ai B",
+  "description": "A powerful, ChatGPT-like AI assistant using Google's Gemini 2.5 Flash model for fast, streaming responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
